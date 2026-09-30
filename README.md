@@ -35,7 +35,7 @@ Inspired by premium architectural designs and the Constrc design language, featu
 
 ```bash
 # Clone the repository
-git clone https://github.com/rideseto/constrc.git
+git clone https://github.com/sb6121998/constrc.git
 
 # Navigate into the project directory
 cd constrc
